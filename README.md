@@ -33,7 +33,7 @@ python api_inference.py
 ```
 This code needs 3 api keys, DASHSCOPE for Qwen series, yunwu.ai for GPT and superbed for url generation. Superbed api key is provided for reproduction.
 
-Since results for table 2 needs 2 spanning matrices and constructing multiple cost a lot human effort, we only provide inference code in file generate_structure.py.
+Since results for table 2 needs 2 spanning matrices and constructing multiple cost a lot human effort, we only provide inference code in file ```generate_structure.py.```
 Other parts will be available alongside agent code after acceptance.
 
 
