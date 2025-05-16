@@ -1,4 +1,4 @@
-# TableNetExperimentCode
+# TableNet Experiment Code for Reproduction
 Official code of  experiment in TableNet: A Large-Scale Table Dataset with LLM-Powered Autonomous Generation
 
 ## Training Qwen2-VL-2B
