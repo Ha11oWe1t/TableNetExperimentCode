@@ -16,7 +16,7 @@ Then you can train Qwen2-VL-2B by running
 ```
 python main.py
 ```
-You can inference with trained model or simply download trained model at [Huggingface]()
+You can inference with trained model. Due to anonymity, although our trained model has been upload to Huggingface, we currently don't release its url and please train on your own for reproduction.
 
 ## Inference with trained model and other baselines
 To get 2B result, set finetuned model path correctly
